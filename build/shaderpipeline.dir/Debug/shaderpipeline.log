@@ -1,0 +1,200 @@
+﻿  main.cpp
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\create_shader_program_from_files.h(77,44): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\create_shader_program_from_files.h(98,34): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(67,32): warning C4100: 'error': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(116,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(118,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(119,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(123,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(124,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(129,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(109,17): warning C4100: 'window': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(142,55): warning C4100: 'action': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(142,41): warning C4100: 'scancode': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(151,56): warning C4100: 'modifier': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(151,20): warning C4100: 'window': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(183,57): warning C4100: 'mods': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(183,33): warning C4100: 'button': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(183,21): warning C4100: 'window': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(201,22): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(205,22): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(189,21): warning C4100: 'window': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(212,36): warning C4100: 'xoffset': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(212,21): warning C4100: 'window': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(240,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(302,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(303,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(304,77): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(304,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(304,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(318,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(336,40): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'GLsizei', possible loss of data
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(336,40): warning C4244:         with
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(336,40): warning C4244:         [
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(336,40): warning C4244:             Derived=Eigen::Matrix<GLuint,-1,3,1,-1,3>
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(336,40): warning C4244:         ]
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(53,14): warning C4100: 'argc': unreferenced parameter
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(240,9): warning C4189: 'start_time': local variable is initialized but not referenced
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(30,5): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+      C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(30,5):
+      the template instantiation context (the oldest one first) is
+          C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(104,3):
+          see reference to function template instantiation 'void icosahedron<Eigen::Matrix<float,-1,3,1,-1,3>,Eigen::Matrix<GLuint,-1,3,1,-1,3>>(Eigen::PlainObjectBase<Eigen::Matrix<float,-1,3,1,-1,3>> &,Eigen::PlainObjectBase<Eigen::Matrix<GLuint,-1,3,1,-1,3>> &)' being compiled
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(30,25): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(30,46): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(31,5): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(31,25): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(31,45): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(32,5): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(32,26): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(32,46): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(33,5): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(33,26): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(33,49): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(34,5): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(34,26): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(34,47): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(35,5): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(35,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(36,5): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(36,25): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(36,45): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(37,5): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(37,26): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(37,45): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(38,5): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(38,26): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(38,47): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(39,5): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(39,25): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\icosahedron.h(39,46): warning C4305: 'argument': truncation from 'double' to 'const float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(1941,61): warning C4127: conditional expression is constant
+  (compiling source file '../main.cpp')
+      C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(1941,61):
+      consider using 'if constexpr' statement instead
+      C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(1941,61):
+      the template instantiation context (the oldest one first) is
+          C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(2103,73):
+          while compiling class template member function 'std::shared_ptr<nlohmann::detail::input_adapter_protocol>::shared_ptr(std::shared_ptr<_Ty2> &&) noexcept'
+          C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(2103,73):
+          while processing the default template argument of 'std::shared_ptr<nlohmann::detail::input_adapter_protocol>::shared_ptr(std::shared_ptr<_Ty2> &&) noexcept'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1648,88):
+          see reference to class template instantiation 'std::_SP_pointer_compatible<nlohmann::detail::wide_string_input_adapter<std::u32string>,nlohmann::detail::input_adapter_protocol>' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory(1501,62):
+          see reference to class template instantiation 'std::is_convertible<_Yty *,_Ty *>' being compiled
+          with
+          [
+              _Yty=nlohmann::detail::wide_string_input_adapter<std::u32string>,
+              _Ty=nlohmann::detail::input_adapter_protocol
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(323,39):
+          see reference to class template instantiation 'nlohmann::detail::wide_string_input_adapter<std::u32string>' being compiled
+          C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(1936,38):
+          while compiling class template member function 'int nlohmann::detail::wide_string_input_adapter<std::u32string>::get_character(void) noexcept'
+  
+C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(8588,20): warning C4459: declaration of 'F' hides global declaration
+  (compiling source file '../main.cpp')
+      C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp(51,56):
+      see declaration of 'F'
+      C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(8588,20):
+      the template instantiation context (the oldest one first) is
+          C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(18486,52):
+          see reference to class template instantiation 'nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>' being compiled
+          C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(12799,14):
+          while compiling class template member function 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>::dump(const int,const char,const bool) const'
+              C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(18506,9):
+              see the first reference to 'nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>::dump' in 'std::hash<nlohmann::json>::operator ()'
+          C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(12803,20):
+          see reference to class template instantiation 'nlohmann::detail::serializer<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>>' being compiled
+          C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(9966,10):
+          while compiling class template member function 'void nlohmann::detail::serializer<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>>::dump_float(double,std::true_type)'
+              C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(9963,19):
+              see the first reference to 'nlohmann::detail::serializer<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>>::dump_float' in 'nlohmann::detail::serializer<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>>::dump_float'
+              C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(9716,27):
+              see the first reference to 'nlohmann::detail::serializer<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>>::dump_float' in 'nlohmann::detail::serializer<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>>::dump'
+              C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(12807,19):
+              see the first reference to 'nlohmann::detail::serializer<nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>>::dump' in 'nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>::dump'
+              C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(18506,9):
+              see the first reference to 'nlohmann::basic_json<std::map,std::vector,std::string,bool,int64_t,uint64_t,double,std::allocator,nlohmann::adl_serializer>::dump' in 'std::hash<nlohmann::json>::operator ()'
+          C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(9969,41):
+          see reference to function template instantiation 'char *nlohmann::detail::to_chars<double>(char *,char *,FloatType)' being compiled
+          with
+          [
+              FloatType=double
+          ]
+          C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(9463,16):
+          see reference to function template instantiation 'void nlohmann::detail::dtoa_impl::grisu2<FloatType>(char *,int &,int &,FloatType)' being compiled
+          with
+          [
+              FloatType=double
+          ]
+          C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\include\json.hpp(9290,26):
+          see reference to function template instantiation 'nlohmann::detail::dtoa_impl::boundaries nlohmann::detail::dtoa_impl::compute_boundaries<FloatType>(FloatType)' being compiled
+          with
+          [
+              FloatType=double
+          ]
+  
+  shaderpipeline.vcxproj -> C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\build\shaderpipeline.exe

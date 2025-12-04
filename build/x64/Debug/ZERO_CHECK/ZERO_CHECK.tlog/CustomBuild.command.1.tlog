@@ -1,0 +1,10 @@
+^C:\USERS\DAVID\DESKTOP\CSC317\A6\COMPUTER-GRAPHICS-SHADER-PIPELINE\BUILD\CMAKEFILES\C5010F8BF6874638293965E4A2126B3C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline -BC:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build/shaderpipeline.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

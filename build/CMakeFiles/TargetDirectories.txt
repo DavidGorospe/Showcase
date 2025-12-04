@@ -1,0 +1,8 @@
+C:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build/CMakeFiles/shaderpipeline.dir
+C:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build/glfw/src/CMakeFiles/glfw.dir
+C:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build/glad/CMakeFiles/glad.dir
+C:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build/glad/CMakeFiles/ALL_BUILD.dir

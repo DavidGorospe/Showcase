@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E0FA43E4-1346-3058-B1D6-380AEEC854D9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

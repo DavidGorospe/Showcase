@@ -1,0 +1,10 @@
+^C:\USERS\DAVID\DESKTOP\CSC317\A6\COMPUTER-GRAPHICS-SHADER-PIPELINE\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline -BC:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build --check-stamp-file C:/Users/David/Desktop/CSC317/A6/computer-graphics-shader-pipeline/build/glfw/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

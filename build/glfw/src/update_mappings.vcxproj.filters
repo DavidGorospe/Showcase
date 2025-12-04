@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\build\CMakeFiles\e02f47fdf9c218d5cb360e77c74834d9\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\David\Desktop\CSC317\A6\computer-graphics-shader-pipeline\build\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B643A05D-5BA6-3CE1-91E8-C55E0FAB818F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{63816444-F039-374B-B6EC-0C3640AFC20C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
