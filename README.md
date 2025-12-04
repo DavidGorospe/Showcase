@@ -18,6 +18,8 @@ A6 Shaderpipeline
 
 ## Instructions
 
+First, clone this repository.
+
 If the executable in the `build folder` does not work for rendering, these instructions below are to compile. Otherwise can skip to running the command in the last line of instructions.
 
 Assuming the current directory is `computer-graphics-shader-pipeline`, enter the builder director with command: `cd build`.
